@@ -1,0 +1,2018 @@
+[
+  {
+    "name": "Ice Creams & More",
+    "category": "ice-creams-more",
+    "dimensions": "256x256",
+    "format": "avif",
+    "path": "categories/ice-creams-more/256/image.avif",
+    "bytes": 17102
+  },
+  {
+    "name": "Ice Creams & More",
+    "category": "ice-creams-more",
+    "dimensions": "256x256",
+    "format": "webp",
+    "path": "categories/ice-creams-more/256/image.webp",
+    "bytes": 20706
+  },
+  {
+    "name": "Ice Creams & More",
+    "category": "ice-creams-more",
+    "dimensions": "256x256",
+    "format": "png",
+    "path": "categories/ice-creams-more/256/image.png",
+    "bytes": 100143
+  },
+  {
+    "name": "Ice Creams & More",
+    "category": "ice-creams-more",
+    "dimensions": "384x384",
+    "format": "avif",
+    "path": "categories/ice-creams-more/384/image.avif",
+    "bytes": 30808
+  },
+  {
+    "name": "Ice Creams & More",
+    "category": "ice-creams-more",
+    "dimensions": "384x384",
+    "format": "webp",
+    "path": "categories/ice-creams-more/384/image.webp",
+    "bytes": 37592
+  },
+  {
+    "name": "Ice Creams & More",
+    "category": "ice-creams-more",
+    "dimensions": "384x384",
+    "format": "png",
+    "path": "categories/ice-creams-more/384/image.png",
+    "bytes": 203825
+  },
+  {
+    "name": "Ice Creams & More",
+    "category": "ice-creams-more",
+    "dimensions": "512x512",
+    "format": "avif",
+    "path": "categories/ice-creams-more/512/image.avif",
+    "bytes": 46580
+  },
+  {
+    "name": "Ice Creams & More",
+    "category": "ice-creams-more",
+    "dimensions": "512x512",
+    "format": "webp",
+    "path": "categories/ice-creams-more/512/image.webp",
+    "bytes": 56266
+  },
+  {
+    "name": "Ice Creams & More",
+    "category": "ice-creams-more",
+    "dimensions": "512x512",
+    "format": "png",
+    "path": "categories/ice-creams-more/512/image.png",
+    "bytes": 341845
+  },
+  {
+    "name": "Home & Lifestyle",
+    "category": "home-lifestyle",
+    "dimensions": "256x256",
+    "format": "avif",
+    "path": "categories/home-lifestyle/256/image.avif",
+    "bytes": 17833
+  },
+  {
+    "name": "Home & Lifestyle",
+    "category": "home-lifestyle",
+    "dimensions": "256x256",
+    "format": "webp",
+    "path": "categories/home-lifestyle/256/image.webp",
+    "bytes": 20106
+  },
+  {
+    "name": "Home & Lifestyle",
+    "category": "home-lifestyle",
+    "dimensions": "256x256",
+    "format": "png",
+    "path": "categories/home-lifestyle/256/image.png",
+    "bytes": 97655
+  },
+  {
+    "name": "Home & Lifestyle",
+    "category": "home-lifestyle",
+    "dimensions": "384x384",
+    "format": "avif",
+    "path": "categories/home-lifestyle/384/image.avif",
+    "bytes": 33757
+  },
+  {
+    "name": "Home & Lifestyle",
+    "category": "home-lifestyle",
+    "dimensions": "384x384",
+    "format": "webp",
+    "path": "categories/home-lifestyle/384/image.webp",
+    "bytes": 37320
+  },
+  {
+    "name": "Home & Lifestyle",
+    "category": "home-lifestyle",
+    "dimensions": "384x384",
+    "format": "png",
+    "path": "categories/home-lifestyle/384/image.png",
+    "bytes": 205701
+  },
+  {
+    "name": "Home & Lifestyle",
+    "category": "home-lifestyle",
+    "dimensions": "512x512",
+    "format": "avif",
+    "path": "categories/home-lifestyle/512/image.avif",
+    "bytes": 53750
+  },
+  {
+    "name": "Home & Lifestyle",
+    "category": "home-lifestyle",
+    "dimensions": "512x512",
+    "format": "webp",
+    "path": "categories/home-lifestyle/512/image.webp",
+    "bytes": 59078
+  },
+  {
+    "name": "Home & Lifestyle",
+    "category": "home-lifestyle",
+    "dimensions": "512x512",
+    "format": "png",
+    "path": "categories/home-lifestyle/512/image.png",
+    "bytes": 354499
+  },
+  {
+    "name": "Chicken, Meat & Fish",
+    "category": "chicken-meat-fish",
+    "dimensions": "256x256",
+    "format": "avif",
+    "path": "categories/chicken-meat-fish/256/image.avif",
+    "bytes": 17815
+  },
+  {
+    "name": "Chicken, Meat & Fish",
+    "category": "chicken-meat-fish",
+    "dimensions": "256x256",
+    "format": "webp",
+    "path": "categories/chicken-meat-fish/256/image.webp",
+    "bytes": 21812
+  },
+  {
+    "name": "Chicken, Meat & Fish",
+    "category": "chicken-meat-fish",
+    "dimensions": "256x256",
+    "format": "png",
+    "path": "categories/chicken-meat-fish/256/image.png",
+    "bytes": 105859
+  },
+  {
+    "name": "Chicken, Meat & Fish",
+    "category": "chicken-meat-fish",
+    "dimensions": "384x384",
+    "format": "avif",
+    "path": "categories/chicken-meat-fish/384/image.avif",
+    "bytes": 35075
+  },
+  {
+    "name": "Chicken, Meat & Fish",
+    "category": "chicken-meat-fish",
+    "dimensions": "384x384",
+    "format": "webp",
+    "path": "categories/chicken-meat-fish/384/image.webp",
+    "bytes": 42724
+  },
+  {
+    "name": "Chicken, Meat & Fish",
+    "category": "chicken-meat-fish",
+    "dimensions": "384x384",
+    "format": "png",
+    "path": "categories/chicken-meat-fish/384/image.png",
+    "bytes": 226152
+  },
+  {
+    "name": "Chicken, Meat & Fish",
+    "category": "chicken-meat-fish",
+    "dimensions": "512x512",
+    "format": "avif",
+    "path": "categories/chicken-meat-fish/512/image.avif",
+    "bytes": 56505
+  },
+  {
+    "name": "Chicken, Meat & Fish",
+    "category": "chicken-meat-fish",
+    "dimensions": "512x512",
+    "format": "webp",
+    "path": "categories/chicken-meat-fish/512/image.webp",
+    "bytes": 69424
+  },
+  {
+    "name": "Chicken, Meat & Fish",
+    "category": "chicken-meat-fish",
+    "dimensions": "512x512",
+    "format": "png",
+    "path": "categories/chicken-meat-fish/512/image.png",
+    "bytes": 392347
+  },
+  {
+    "name": "Kitchenware & Appliances",
+    "category": "kitchenware-appliances",
+    "dimensions": "256x256",
+    "format": "avif",
+    "path": "categories/kitchenware-appliances/256/image.avif",
+    "bytes": 16976
+  },
+  {
+    "name": "Kitchenware & Appliances",
+    "category": "kitchenware-appliances",
+    "dimensions": "256x256",
+    "format": "webp",
+    "path": "categories/kitchenware-appliances/256/image.webp",
+    "bytes": 22464
+  },
+  {
+    "name": "Kitchenware & Appliances",
+    "category": "kitchenware-appliances",
+    "dimensions": "256x256",
+    "format": "png",
+    "path": "categories/kitchenware-appliances/256/image.png",
+    "bytes": 96072
+  },
+  {
+    "name": "Kitchenware & Appliances",
+    "category": "kitchenware-appliances",
+    "dimensions": "384x384",
+    "format": "avif",
+    "path": "categories/kitchenware-appliances/384/image.avif",
+    "bytes": 30023
+  },
+  {
+    "name": "Kitchenware & Appliances",
+    "category": "kitchenware-appliances",
+    "dimensions": "384x384",
+    "format": "webp",
+    "path": "categories/kitchenware-appliances/384/image.webp",
+    "bytes": 39866
+  },
+  {
+    "name": "Kitchenware & Appliances",
+    "category": "kitchenware-appliances",
+    "dimensions": "384x384",
+    "format": "png",
+    "path": "categories/kitchenware-appliances/384/image.png",
+    "bytes": 199604
+  },
+  {
+    "name": "Kitchenware & Appliances",
+    "category": "kitchenware-appliances",
+    "dimensions": "512x512",
+    "format": "avif",
+    "path": "categories/kitchenware-appliances/512/image.avif",
+    "bytes": 46028
+  },
+  {
+    "name": "Kitchenware & Appliances",
+    "category": "kitchenware-appliances",
+    "dimensions": "512x512",
+    "format": "webp",
+    "path": "categories/kitchenware-appliances/512/image.webp",
+    "bytes": 61646
+  },
+  {
+    "name": "Kitchenware & Appliances",
+    "category": "kitchenware-appliances",
+    "dimensions": "512x512",
+    "format": "png",
+    "path": "categories/kitchenware-appliances/512/image.png",
+    "bytes": 341024
+  },
+  {
+    "name": "Sauces & Spreads",
+    "category": "sauces-spreads",
+    "dimensions": "256x256",
+    "format": "avif",
+    "path": "categories/sauces-spreads/256/image.avif",
+    "bytes": 19885
+  },
+  {
+    "name": "Sauces & Spreads",
+    "category": "sauces-spreads",
+    "dimensions": "256x256",
+    "format": "webp",
+    "path": "categories/sauces-spreads/256/image.webp",
+    "bytes": 21990
+  },
+  {
+    "name": "Sauces & Spreads",
+    "category": "sauces-spreads",
+    "dimensions": "256x256",
+    "format": "png",
+    "path": "categories/sauces-spreads/256/image.png",
+    "bytes": 103755
+  },
+  {
+    "name": "Sauces & Spreads",
+    "category": "sauces-spreads",
+    "dimensions": "384x384",
+    "format": "avif",
+    "path": "categories/sauces-spreads/384/image.avif",
+    "bytes": 36545
+  },
+  {
+    "name": "Sauces & Spreads",
+    "category": "sauces-spreads",
+    "dimensions": "384x384",
+    "format": "webp",
+    "path": "categories/sauces-spreads/384/image.webp",
+    "bytes": 39934
+  },
+  {
+    "name": "Sauces & Spreads",
+    "category": "sauces-spreads",
+    "dimensions": "384x384",
+    "format": "png",
+    "path": "categories/sauces-spreads/384/image.png",
+    "bytes": 212725
+  },
+  {
+    "name": "Sauces & Spreads",
+    "category": "sauces-spreads",
+    "dimensions": "512x512",
+    "format": "avif",
+    "path": "categories/sauces-spreads/512/image.avif",
+    "bytes": 56376
+  },
+  {
+    "name": "Sauces & Spreads",
+    "category": "sauces-spreads",
+    "dimensions": "512x512",
+    "format": "webp",
+    "path": "categories/sauces-spreads/512/image.webp",
+    "bytes": 61822
+  },
+  {
+    "name": "Sauces & Spreads",
+    "category": "sauces-spreads",
+    "dimensions": "512x512",
+    "format": "png",
+    "path": "categories/sauces-spreads/512/image.png",
+    "bytes": 358321
+  },
+  {
+    "name": "Dairy, Breads & Eggs",
+    "category": "dairy-breads-eggs",
+    "dimensions": "256x256",
+    "format": "avif",
+    "path": "categories/dairy-breads-eggs/256/image.avif",
+    "bytes": 18021
+  },
+  {
+    "name": "Dairy, Breads & Eggs",
+    "category": "dairy-breads-eggs",
+    "dimensions": "256x256",
+    "format": "webp",
+    "path": "categories/dairy-breads-eggs/256/image.webp",
+    "bytes": 21506
+  },
+  {
+    "name": "Dairy, Breads & Eggs",
+    "category": "dairy-breads-eggs",
+    "dimensions": "256x256",
+    "format": "png",
+    "path": "categories/dairy-breads-eggs/256/image.png",
+    "bytes": 93111
+  },
+  {
+    "name": "Dairy, Breads & Eggs",
+    "category": "dairy-breads-eggs",
+    "dimensions": "384x384",
+    "format": "avif",
+    "path": "categories/dairy-breads-eggs/384/image.avif",
+    "bytes": 32720
+  },
+  {
+    "name": "Dairy, Breads & Eggs",
+    "category": "dairy-breads-eggs",
+    "dimensions": "384x384",
+    "format": "webp",
+    "path": "categories/dairy-breads-eggs/384/image.webp",
+    "bytes": 38968
+  },
+  {
+    "name": "Dairy, Breads & Eggs",
+    "category": "dairy-breads-eggs",
+    "dimensions": "384x384",
+    "format": "png",
+    "path": "categories/dairy-breads-eggs/384/image.png",
+    "bytes": 192854
+  },
+  {
+    "name": "Dairy, Breads & Eggs",
+    "category": "dairy-breads-eggs",
+    "dimensions": "512x512",
+    "format": "avif",
+    "path": "categories/dairy-breads-eggs/512/image.avif",
+    "bytes": 50562
+  },
+  {
+    "name": "Dairy, Breads & Eggs",
+    "category": "dairy-breads-eggs",
+    "dimensions": "512x512",
+    "format": "webp",
+    "path": "categories/dairy-breads-eggs/512/image.webp",
+    "bytes": 60860
+  },
+  {
+    "name": "Dairy, Breads & Eggs",
+    "category": "dairy-breads-eggs",
+    "dimensions": "512x512",
+    "format": "png",
+    "path": "categories/dairy-breads-eggs/512/image.png",
+    "bytes": 328197
+  },
+  {
+    "name": "Sexual Wellness",
+    "category": "sexual-wellness",
+    "dimensions": "256x256",
+    "format": "avif",
+    "path": "categories/sexual-wellness/256/image.avif",
+    "bytes": 14305
+  },
+  {
+    "name": "Sexual Wellness",
+    "category": "sexual-wellness",
+    "dimensions": "256x256",
+    "format": "webp",
+    "path": "categories/sexual-wellness/256/image.webp",
+    "bytes": 16040
+  },
+  {
+    "name": "Sexual Wellness",
+    "category": "sexual-wellness",
+    "dimensions": "256x256",
+    "format": "png",
+    "path": "categories/sexual-wellness/256/image.png",
+    "bytes": 86452
+  },
+  {
+    "name": "Sexual Wellness",
+    "category": "sexual-wellness",
+    "dimensions": "384x384",
+    "format": "avif",
+    "path": "categories/sexual-wellness/384/image.avif",
+    "bytes": 25905
+  },
+  {
+    "name": "Sexual Wellness",
+    "category": "sexual-wellness",
+    "dimensions": "384x384",
+    "format": "webp",
+    "path": "categories/sexual-wellness/384/image.webp",
+    "bytes": 28460
+  },
+  {
+    "name": "Sexual Wellness",
+    "category": "sexual-wellness",
+    "dimensions": "384x384",
+    "format": "png",
+    "path": "categories/sexual-wellness/384/image.png",
+    "bytes": 174810
+  },
+  {
+    "name": "Sexual Wellness",
+    "category": "sexual-wellness",
+    "dimensions": "512x512",
+    "format": "avif",
+    "path": "categories/sexual-wellness/512/image.avif",
+    "bytes": 38503
+  },
+  {
+    "name": "Sexual Wellness",
+    "category": "sexual-wellness",
+    "dimensions": "512x512",
+    "format": "webp",
+    "path": "categories/sexual-wellness/512/image.webp",
+    "bytes": 43090
+  },
+  {
+    "name": "Sexual Wellness",
+    "category": "sexual-wellness",
+    "dimensions": "512x512",
+    "format": "png",
+    "path": "categories/sexual-wellness/512/image.png",
+    "bytes": 292678
+  },
+  {
+    "name": "Beauty & Cosmetics",
+    "category": "beauty-cosmetics",
+    "dimensions": "256x256",
+    "format": "avif",
+    "path": "categories/beauty-cosmetics/256/image.avif",
+    "bytes": 16958
+  },
+  {
+    "name": "Beauty & Cosmetics",
+    "category": "beauty-cosmetics",
+    "dimensions": "256x256",
+    "format": "webp",
+    "path": "categories/beauty-cosmetics/256/image.webp",
+    "bytes": 19130
+  },
+  {
+    "name": "Beauty & Cosmetics",
+    "category": "beauty-cosmetics",
+    "dimensions": "256x256",
+    "format": "png",
+    "path": "categories/beauty-cosmetics/256/image.png",
+    "bytes": 86299
+  },
+  {
+    "name": "Beauty & Cosmetics",
+    "category": "beauty-cosmetics",
+    "dimensions": "384x384",
+    "format": "avif",
+    "path": "categories/beauty-cosmetics/384/image.avif",
+    "bytes": 30134
+  },
+  {
+    "name": "Beauty & Cosmetics",
+    "category": "beauty-cosmetics",
+    "dimensions": "384x384",
+    "format": "webp",
+    "path": "categories/beauty-cosmetics/384/image.webp",
+    "bytes": 34404
+  },
+  {
+    "name": "Beauty & Cosmetics",
+    "category": "beauty-cosmetics",
+    "dimensions": "384x384",
+    "format": "png",
+    "path": "categories/beauty-cosmetics/384/image.png",
+    "bytes": 174215
+  },
+  {
+    "name": "Beauty & Cosmetics",
+    "category": "beauty-cosmetics",
+    "dimensions": "512x512",
+    "format": "avif",
+    "path": "categories/beauty-cosmetics/512/image.avif",
+    "bytes": 45815
+  },
+  {
+    "name": "Beauty & Cosmetics",
+    "category": "beauty-cosmetics",
+    "dimensions": "512x512",
+    "format": "webp",
+    "path": "categories/beauty-cosmetics/512/image.webp",
+    "bytes": 52772
+  },
+  {
+    "name": "Beauty & Cosmetics",
+    "category": "beauty-cosmetics",
+    "dimensions": "512x512",
+    "format": "png",
+    "path": "categories/beauty-cosmetics/512/image.png",
+    "bytes": 291002
+  },
+  {
+    "name": "Mints & Refreshments",
+    "category": "mints-refreshments",
+    "dimensions": "256x256",
+    "format": "avif",
+    "path": "categories/mints-refreshments/256/image.avif",
+    "bytes": 19533
+  },
+  {
+    "name": "Mints & Refreshments",
+    "category": "mints-refreshments",
+    "dimensions": "256x256",
+    "format": "webp",
+    "path": "categories/mints-refreshments/256/image.webp",
+    "bytes": 22464
+  },
+  {
+    "name": "Mints & Refreshments",
+    "category": "mints-refreshments",
+    "dimensions": "256x256",
+    "format": "png",
+    "path": "categories/mints-refreshments/256/image.png",
+    "bytes": 106402
+  },
+  {
+    "name": "Mints & Refreshments",
+    "category": "mints-refreshments",
+    "dimensions": "384x384",
+    "format": "avif",
+    "path": "categories/mints-refreshments/384/image.avif",
+    "bytes": 36754
+  },
+  {
+    "name": "Mints & Refreshments",
+    "category": "mints-refreshments",
+    "dimensions": "384x384",
+    "format": "webp",
+    "path": "categories/mints-refreshments/384/image.webp",
+    "bytes": 42444
+  },
+  {
+    "name": "Mints & Refreshments",
+    "category": "mints-refreshments",
+    "dimensions": "384x384",
+    "format": "png",
+    "path": "categories/mints-refreshments/384/image.png",
+    "bytes": 220298
+  },
+  {
+    "name": "Mints & Refreshments",
+    "category": "mints-refreshments",
+    "dimensions": "512x512",
+    "format": "avif",
+    "path": "categories/mints-refreshments/512/image.avif",
+    "bytes": 58327
+  },
+  {
+    "name": "Mints & Refreshments",
+    "category": "mints-refreshments",
+    "dimensions": "512x512",
+    "format": "webp",
+    "path": "categories/mints-refreshments/512/image.webp",
+    "bytes": 67516
+  },
+  {
+    "name": "Mints & Refreshments",
+    "category": "mints-refreshments",
+    "dimensions": "512x512",
+    "format": "png",
+    "path": "categories/mints-refreshments/512/image.png",
+    "bytes": 372380
+  },
+  {
+    "name": "Sweets & Chocolates",
+    "category": "sweets-chocolates",
+    "dimensions": "256x256",
+    "format": "avif",
+    "path": "categories/sweets-chocolates/256/image.avif",
+    "bytes": 18435
+  },
+  {
+    "name": "Sweets & Chocolates",
+    "category": "sweets-chocolates",
+    "dimensions": "256x256",
+    "format": "webp",
+    "path": "categories/sweets-chocolates/256/image.webp",
+    "bytes": 19930
+  },
+  {
+    "name": "Sweets & Chocolates",
+    "category": "sweets-chocolates",
+    "dimensions": "256x256",
+    "format": "png",
+    "path": "categories/sweets-chocolates/256/image.png",
+    "bytes": 97582
+  },
+  {
+    "name": "Sweets & Chocolates",
+    "category": "sweets-chocolates",
+    "dimensions": "384x384",
+    "format": "avif",
+    "path": "categories/sweets-chocolates/384/image.avif",
+    "bytes": 33467
+  },
+  {
+    "name": "Sweets & Chocolates",
+    "category": "sweets-chocolates",
+    "dimensions": "384x384",
+    "format": "webp",
+    "path": "categories/sweets-chocolates/384/image.webp",
+    "bytes": 36800
+  },
+  {
+    "name": "Sweets & Chocolates",
+    "category": "sweets-chocolates",
+    "dimensions": "384x384",
+    "format": "png",
+    "path": "categories/sweets-chocolates/384/image.png",
+    "bytes": 199900
+  },
+  {
+    "name": "Sweets & Chocolates",
+    "category": "sweets-chocolates",
+    "dimensions": "512x512",
+    "format": "avif",
+    "path": "categories/sweets-chocolates/512/image.avif",
+    "bytes": 51256
+  },
+  {
+    "name": "Sweets & Chocolates",
+    "category": "sweets-chocolates",
+    "dimensions": "512x512",
+    "format": "webp",
+    "path": "categories/sweets-chocolates/512/image.webp",
+    "bytes": 57444
+  },
+  {
+    "name": "Sweets & Chocolates",
+    "category": "sweets-chocolates",
+    "dimensions": "512x512",
+    "format": "png",
+    "path": "categories/sweets-chocolates/512/image.png",
+    "bytes": 338198
+  },
+  {
+    "name": "Bakery & Biscuits",
+    "category": "bakery-biscuits",
+    "dimensions": "256x256",
+    "format": "avif",
+    "path": "categories/bakery-biscuits/256/image.avif",
+    "bytes": 18570
+  },
+  {
+    "name": "Bakery & Biscuits",
+    "category": "bakery-biscuits",
+    "dimensions": "256x256",
+    "format": "webp",
+    "path": "categories/bakery-biscuits/256/image.webp",
+    "bytes": 20676
+  },
+  {
+    "name": "Bakery & Biscuits",
+    "category": "bakery-biscuits",
+    "dimensions": "256x256",
+    "format": "png",
+    "path": "categories/bakery-biscuits/256/image.png",
+    "bytes": 99054
+  },
+  {
+    "name": "Bakery & Biscuits",
+    "category": "bakery-biscuits",
+    "dimensions": "384x384",
+    "format": "avif",
+    "path": "categories/bakery-biscuits/384/image.avif",
+    "bytes": 34458
+  },
+  {
+    "name": "Bakery & Biscuits",
+    "category": "bakery-biscuits",
+    "dimensions": "384x384",
+    "format": "webp",
+    "path": "categories/bakery-biscuits/384/image.webp",
+    "bytes": 38756
+  },
+  {
+    "name": "Bakery & Biscuits",
+    "category": "bakery-biscuits",
+    "dimensions": "384x384",
+    "format": "png",
+    "path": "categories/bakery-biscuits/384/image.png",
+    "bytes": 206466
+  },
+  {
+    "name": "Bakery & Biscuits",
+    "category": "bakery-biscuits",
+    "dimensions": "512x512",
+    "format": "avif",
+    "path": "categories/bakery-biscuits/512/image.avif",
+    "bytes": 54270
+  },
+  {
+    "name": "Bakery & Biscuits",
+    "category": "bakery-biscuits",
+    "dimensions": "512x512",
+    "format": "webp",
+    "path": "categories/bakery-biscuits/512/image.webp",
+    "bytes": 61220
+  },
+  {
+    "name": "Bakery & Biscuits",
+    "category": "bakery-biscuits",
+    "dimensions": "512x512",
+    "format": "png",
+    "path": "categories/bakery-biscuits/512/image.png",
+    "bytes": 352652
+  },
+  {
+    "name": "Dry Fruits & Cereals",
+    "category": "dry-fruits-cereals",
+    "dimensions": "256x256",
+    "format": "avif",
+    "path": "categories/dry-fruits-cereals/256/image.avif",
+    "bytes": 19529
+  },
+  {
+    "name": "Dry Fruits & Cereals",
+    "category": "dry-fruits-cereals",
+    "dimensions": "256x256",
+    "format": "webp",
+    "path": "categories/dry-fruits-cereals/256/image.webp",
+    "bytes": 20268
+  },
+  {
+    "name": "Dry Fruits & Cereals",
+    "category": "dry-fruits-cereals",
+    "dimensions": "256x256",
+    "format": "png",
+    "path": "categories/dry-fruits-cereals/256/image.png",
+    "bytes": 98251
+  },
+  {
+    "name": "Dry Fruits & Cereals",
+    "category": "dry-fruits-cereals",
+    "dimensions": "384x384",
+    "format": "avif",
+    "path": "categories/dry-fruits-cereals/384/image.avif",
+    "bytes": 36388
+  },
+  {
+    "name": "Dry Fruits & Cereals",
+    "category": "dry-fruits-cereals",
+    "dimensions": "384x384",
+    "format": "webp",
+    "path": "categories/dry-fruits-cereals/384/image.webp",
+    "bytes": 37856
+  },
+  {
+    "name": "Dry Fruits & Cereals",
+    "category": "dry-fruits-cereals",
+    "dimensions": "384x384",
+    "format": "png",
+    "path": "categories/dry-fruits-cereals/384/image.png",
+    "bytes": 204768
+  },
+  {
+    "name": "Dry Fruits & Cereals",
+    "category": "dry-fruits-cereals",
+    "dimensions": "512x512",
+    "format": "avif",
+    "path": "categories/dry-fruits-cereals/512/image.avif",
+    "bytes": 55804
+  },
+  {
+    "name": "Dry Fruits & Cereals",
+    "category": "dry-fruits-cereals",
+    "dimensions": "512x512",
+    "format": "webp",
+    "path": "categories/dry-fruits-cereals/512/image.webp",
+    "bytes": 60030
+  },
+  {
+    "name": "Dry Fruits & Cereals",
+    "category": "dry-fruits-cereals",
+    "dimensions": "512x512",
+    "format": "png",
+    "path": "categories/dry-fruits-cereals/512/image.png",
+    "bytes": 348859
+  },
+  {
+    "name": "Oil, Ghee & Masala",
+    "category": "oil-ghee-masala",
+    "dimensions": "256x256",
+    "format": "avif",
+    "path": "categories/oil-ghee-masala/256/image.avif",
+    "bytes": 17569
+  },
+  {
+    "name": "Oil, Ghee & Masala",
+    "category": "oil-ghee-masala",
+    "dimensions": "256x256",
+    "format": "webp",
+    "path": "categories/oil-ghee-masala/256/image.webp",
+    "bytes": 19104
+  },
+  {
+    "name": "Oil, Ghee & Masala",
+    "category": "oil-ghee-masala",
+    "dimensions": "256x256",
+    "format": "png",
+    "path": "categories/oil-ghee-masala/256/image.png",
+    "bytes": 92313
+  },
+  {
+    "name": "Oil, Ghee & Masala",
+    "category": "oil-ghee-masala",
+    "dimensions": "384x384",
+    "format": "avif",
+    "path": "categories/oil-ghee-masala/384/image.avif",
+    "bytes": 31523
+  },
+  {
+    "name": "Oil, Ghee & Masala",
+    "category": "oil-ghee-masala",
+    "dimensions": "384x384",
+    "format": "webp",
+    "path": "categories/oil-ghee-masala/384/image.webp",
+    "bytes": 34724
+  },
+  {
+    "name": "Oil, Ghee & Masala",
+    "category": "oil-ghee-masala",
+    "dimensions": "384x384",
+    "format": "png",
+    "path": "categories/oil-ghee-masala/384/image.png",
+    "bytes": 190724
+  },
+  {
+    "name": "Oil, Ghee & Masala",
+    "category": "oil-ghee-masala",
+    "dimensions": "512x512",
+    "format": "avif",
+    "path": "categories/oil-ghee-masala/512/image.avif",
+    "bytes": 48448
+  },
+  {
+    "name": "Oil, Ghee & Masala",
+    "category": "oil-ghee-masala",
+    "dimensions": "512x512",
+    "format": "webp",
+    "path": "categories/oil-ghee-masala/512/image.webp",
+    "bytes": 54812
+  },
+  {
+    "name": "Oil, Ghee & Masala",
+    "category": "oil-ghee-masala",
+    "dimensions": "512x512",
+    "format": "png",
+    "path": "categories/oil-ghee-masala/512/image.png",
+    "bytes": 326535
+  },
+  {
+    "name": "Stationery & Games",
+    "category": "stationery-games",
+    "dimensions": "256x256",
+    "format": "avif",
+    "path": "categories/stationery-games/256/image.avif",
+    "bytes": 16769
+  },
+  {
+    "name": "Stationery & Games",
+    "category": "stationery-games",
+    "dimensions": "256x256",
+    "format": "webp",
+    "path": "categories/stationery-games/256/image.webp",
+    "bytes": 18002
+  },
+  {
+    "name": "Stationery & Games",
+    "category": "stationery-games",
+    "dimensions": "256x256",
+    "format": "png",
+    "path": "categories/stationery-games/256/image.png",
+    "bytes": 86008
+  },
+  {
+    "name": "Stationery & Games",
+    "category": "stationery-games",
+    "dimensions": "384x384",
+    "format": "avif",
+    "path": "categories/stationery-games/384/image.avif",
+    "bytes": 28261
+  },
+  {
+    "name": "Stationery & Games",
+    "category": "stationery-games",
+    "dimensions": "384x384",
+    "format": "webp",
+    "path": "categories/stationery-games/384/image.webp",
+    "bytes": 31190
+  },
+  {
+    "name": "Stationery & Games",
+    "category": "stationery-games",
+    "dimensions": "384x384",
+    "format": "png",
+    "path": "categories/stationery-games/384/image.png",
+    "bytes": 170546
+  },
+  {
+    "name": "Stationery & Games",
+    "category": "stationery-games",
+    "dimensions": "512x512",
+    "format": "avif",
+    "path": "categories/stationery-games/512/image.avif",
+    "bytes": 41090
+  },
+  {
+    "name": "Stationery & Games",
+    "category": "stationery-games",
+    "dimensions": "512x512",
+    "format": "webp",
+    "path": "categories/stationery-games/512/image.webp",
+    "bytes": 46656
+  },
+  {
+    "name": "Stationery & Games",
+    "category": "stationery-games",
+    "dimensions": "512x512",
+    "format": "png",
+    "path": "categories/stationery-games/512/image.png",
+    "bytes": 283156
+  },
+  {
+    "name": "Feminine Hygiene",
+    "category": "feminine-hygiene",
+    "dimensions": "256x256",
+    "format": "avif",
+    "path": "categories/feminine-hygiene/256/image.avif",
+    "bytes": 14230
+  },
+  {
+    "name": "Feminine Hygiene",
+    "category": "feminine-hygiene",
+    "dimensions": "256x256",
+    "format": "webp",
+    "path": "categories/feminine-hygiene/256/image.webp",
+    "bytes": 16982
+  },
+  {
+    "name": "Feminine Hygiene",
+    "category": "feminine-hygiene",
+    "dimensions": "256x256",
+    "format": "png",
+    "path": "categories/feminine-hygiene/256/image.png",
+    "bytes": 84003
+  },
+  {
+    "name": "Feminine Hygiene",
+    "category": "feminine-hygiene",
+    "dimensions": "384x384",
+    "format": "avif",
+    "path": "categories/feminine-hygiene/384/image.avif",
+    "bytes": 25662
+  },
+  {
+    "name": "Feminine Hygiene",
+    "category": "feminine-hygiene",
+    "dimensions": "384x384",
+    "format": "webp",
+    "path": "categories/feminine-hygiene/384/image.webp",
+    "bytes": 30190
+  },
+  {
+    "name": "Feminine Hygiene",
+    "category": "feminine-hygiene",
+    "dimensions": "384x384",
+    "format": "png",
+    "path": "categories/feminine-hygiene/384/image.png",
+    "bytes": 171388
+  },
+  {
+    "name": "Feminine Hygiene",
+    "category": "feminine-hygiene",
+    "dimensions": "512x512",
+    "format": "avif",
+    "path": "categories/feminine-hygiene/512/image.avif",
+    "bytes": 38310
+  },
+  {
+    "name": "Feminine Hygiene",
+    "category": "feminine-hygiene",
+    "dimensions": "512x512",
+    "format": "webp",
+    "path": "categories/feminine-hygiene/512/image.webp",
+    "bytes": 45264
+  },
+  {
+    "name": "Feminine Hygiene",
+    "category": "feminine-hygiene",
+    "dimensions": "512x512",
+    "format": "png",
+    "path": "categories/feminine-hygiene/512/image.png",
+    "bytes": 289492
+  },
+  {
+    "name": "Rice, Flour & Dhal",
+    "category": "rice-flour-dhal",
+    "dimensions": "256x256",
+    "format": "avif",
+    "path": "categories/rice-flour-dhal/256/image.avif",
+    "bytes": 14814
+  },
+  {
+    "name": "Rice, Flour & Dhal",
+    "category": "rice-flour-dhal",
+    "dimensions": "256x256",
+    "format": "webp",
+    "path": "categories/rice-flour-dhal/256/image.webp",
+    "bytes": 14900
+  },
+  {
+    "name": "Rice, Flour & Dhal",
+    "category": "rice-flour-dhal",
+    "dimensions": "256x256",
+    "format": "png",
+    "path": "categories/rice-flour-dhal/256/image.png",
+    "bytes": 78544
+  },
+  {
+    "name": "Rice, Flour & Dhal",
+    "category": "rice-flour-dhal",
+    "dimensions": "384x384",
+    "format": "avif",
+    "path": "categories/rice-flour-dhal/384/image.avif",
+    "bytes": 27928
+  },
+  {
+    "name": "Rice, Flour & Dhal",
+    "category": "rice-flour-dhal",
+    "dimensions": "384x384",
+    "format": "webp",
+    "path": "categories/rice-flour-dhal/384/image.webp",
+    "bytes": 27678
+  },
+  {
+    "name": "Rice, Flour & Dhal",
+    "category": "rice-flour-dhal",
+    "dimensions": "384x384",
+    "format": "png",
+    "path": "categories/rice-flour-dhal/384/image.png",
+    "bytes": 166428
+  },
+  {
+    "name": "Rice, Flour & Dhal",
+    "category": "rice-flour-dhal",
+    "dimensions": "512x512",
+    "format": "avif",
+    "path": "categories/rice-flour-dhal/512/image.avif",
+    "bytes": 42921
+  },
+  {
+    "name": "Rice, Flour & Dhal",
+    "category": "rice-flour-dhal",
+    "dimensions": "512x512",
+    "format": "webp",
+    "path": "categories/rice-flour-dhal/512/image.webp",
+    "bytes": 44550
+  },
+  {
+    "name": "Rice, Flour & Dhal",
+    "category": "rice-flour-dhal",
+    "dimensions": "512x512",
+    "format": "png",
+    "path": "categories/rice-flour-dhal/512/image.png",
+    "bytes": 287940
+  },
+  {
+    "name": "Vegetables & Fruits",
+    "category": "vegetables-fruits",
+    "dimensions": "256x256",
+    "format": "avif",
+    "path": "categories/vegetables-fruits/256/image.avif",
+    "bytes": 14543
+  },
+  {
+    "name": "Vegetables & Fruits",
+    "category": "vegetables-fruits",
+    "dimensions": "256x256",
+    "format": "webp",
+    "path": "categories/vegetables-fruits/256/image.webp",
+    "bytes": 14298
+  },
+  {
+    "name": "Vegetables & Fruits",
+    "category": "vegetables-fruits",
+    "dimensions": "256x256",
+    "format": "png",
+    "path": "categories/vegetables-fruits/256/image.png",
+    "bytes": 79027
+  },
+  {
+    "name": "Vegetables & Fruits",
+    "category": "vegetables-fruits",
+    "dimensions": "384x384",
+    "format": "avif",
+    "path": "categories/vegetables-fruits/384/image.avif",
+    "bytes": 27905
+  },
+  {
+    "name": "Vegetables & Fruits",
+    "category": "vegetables-fruits",
+    "dimensions": "384x384",
+    "format": "webp",
+    "path": "categories/vegetables-fruits/384/image.webp",
+    "bytes": 29462
+  },
+  {
+    "name": "Vegetables & Fruits",
+    "category": "vegetables-fruits",
+    "dimensions": "384x384",
+    "format": "png",
+    "path": "categories/vegetables-fruits/384/image.png",
+    "bytes": 167353
+  },
+  {
+    "name": "Vegetables & Fruits",
+    "category": "vegetables-fruits",
+    "dimensions": "512x512",
+    "format": "avif",
+    "path": "categories/vegetables-fruits/512/image.avif",
+    "bytes": 44866
+  },
+  {
+    "name": "Vegetables & Fruits",
+    "category": "vegetables-fruits",
+    "dimensions": "512x512",
+    "format": "webp",
+    "path": "categories/vegetables-fruits/512/image.webp",
+    "bytes": 48222
+  },
+  {
+    "name": "Vegetables & Fruits",
+    "category": "vegetables-fruits",
+    "dimensions": "512x512",
+    "format": "png",
+    "path": "categories/vegetables-fruits/512/image.png",
+    "bytes": 286998
+  },
+  {
+    "name": "Skin & Face",
+    "category": "skin-face",
+    "dimensions": "256x256",
+    "format": "avif",
+    "path": "categories/skin-face/256/image.avif",
+    "bytes": 16807
+  },
+  {
+    "name": "Skin & Face",
+    "category": "skin-face",
+    "dimensions": "256x256",
+    "format": "webp",
+    "path": "categories/skin-face/256/image.webp",
+    "bytes": 20072
+  },
+  {
+    "name": "Skin & Face",
+    "category": "skin-face",
+    "dimensions": "256x256",
+    "format": "png",
+    "path": "categories/skin-face/256/image.png",
+    "bytes": 90558
+  },
+  {
+    "name": "Skin & Face",
+    "category": "skin-face",
+    "dimensions": "384x384",
+    "format": "avif",
+    "path": "categories/skin-face/384/image.avif",
+    "bytes": 30605
+  },
+  {
+    "name": "Skin & Face",
+    "category": "skin-face",
+    "dimensions": "384x384",
+    "format": "webp",
+    "path": "categories/skin-face/384/image.webp",
+    "bytes": 36290
+  },
+  {
+    "name": "Skin & Face",
+    "category": "skin-face",
+    "dimensions": "384x384",
+    "format": "png",
+    "path": "categories/skin-face/384/image.png",
+    "bytes": 187255
+  },
+  {
+    "name": "Skin & Face",
+    "category": "skin-face",
+    "dimensions": "512x512",
+    "format": "avif",
+    "path": "categories/skin-face/512/image.avif",
+    "bytes": 48385
+  },
+  {
+    "name": "Skin & Face",
+    "category": "skin-face",
+    "dimensions": "512x512",
+    "format": "webp",
+    "path": "categories/skin-face/512/image.webp",
+    "bytes": 56518
+  },
+  {
+    "name": "Skin & Face",
+    "category": "skin-face",
+    "dimensions": "512x512",
+    "format": "png",
+    "path": "categories/skin-face/512/image.png",
+    "bytes": 317570
+  },
+  {
+    "name": "Health & Pharma",
+    "category": "health-pharma",
+    "dimensions": "256x256",
+    "format": "avif",
+    "path": "categories/health-pharma/256/image.avif",
+    "bytes": 14637
+  },
+  {
+    "name": "Health & Pharma",
+    "category": "health-pharma",
+    "dimensions": "256x256",
+    "format": "webp",
+    "path": "categories/health-pharma/256/image.webp",
+    "bytes": 16586
+  },
+  {
+    "name": "Health & Pharma",
+    "category": "health-pharma",
+    "dimensions": "256x256",
+    "format": "png",
+    "path": "categories/health-pharma/256/image.png",
+    "bytes": 81091
+  },
+  {
+    "name": "Health & Pharma",
+    "category": "health-pharma",
+    "dimensions": "384x384",
+    "format": "avif",
+    "path": "categories/health-pharma/384/image.avif",
+    "bytes": 25413
+  },
+  {
+    "name": "Health & Pharma",
+    "category": "health-pharma",
+    "dimensions": "384x384",
+    "format": "webp",
+    "path": "categories/health-pharma/384/image.webp",
+    "bytes": 28892
+  },
+  {
+    "name": "Health & Pharma",
+    "category": "health-pharma",
+    "dimensions": "384x384",
+    "format": "png",
+    "path": "categories/health-pharma/384/image.png",
+    "bytes": 160395
+  },
+  {
+    "name": "Health & Pharma",
+    "category": "health-pharma",
+    "dimensions": "512x512",
+    "format": "avif",
+    "path": "categories/health-pharma/512/image.avif",
+    "bytes": 37475
+  },
+  {
+    "name": "Health & Pharma",
+    "category": "health-pharma",
+    "dimensions": "512x512",
+    "format": "webp",
+    "path": "categories/health-pharma/512/image.webp",
+    "bytes": 42838
+  },
+  {
+    "name": "Health & Pharma",
+    "category": "health-pharma",
+    "dimensions": "512x512",
+    "format": "png",
+    "path": "categories/health-pharma/512/image.png",
+    "bytes": 266090
+  },
+  {
+    "name": "Hair",
+    "category": "hair",
+    "dimensions": "256x256",
+    "format": "avif",
+    "path": "categories/hair/256/image.avif",
+    "bytes": 20283
+  },
+  {
+    "name": "Hair",
+    "category": "hair",
+    "dimensions": "256x256",
+    "format": "webp",
+    "path": "categories/hair/256/image.webp",
+    "bytes": 24726
+  },
+  {
+    "name": "Hair",
+    "category": "hair",
+    "dimensions": "256x256",
+    "format": "png",
+    "path": "categories/hair/256/image.png",
+    "bytes": 112882
+  },
+  {
+    "name": "Hair",
+    "category": "hair",
+    "dimensions": "384x384",
+    "format": "avif",
+    "path": "categories/hair/384/image.avif",
+    "bytes": 37258
+  },
+  {
+    "name": "Hair",
+    "category": "hair",
+    "dimensions": "384x384",
+    "format": "webp",
+    "path": "categories/hair/384/image.webp",
+    "bytes": 45546
+  },
+  {
+    "name": "Hair",
+    "category": "hair",
+    "dimensions": "384x384",
+    "format": "png",
+    "path": "categories/hair/384/image.png",
+    "bytes": 232118
+  },
+  {
+    "name": "Hair",
+    "category": "hair",
+    "dimensions": "512x512",
+    "format": "avif",
+    "path": "categories/hair/512/image.avif",
+    "bytes": 58833
+  },
+  {
+    "name": "Hair",
+    "category": "hair",
+    "dimensions": "512x512",
+    "format": "webp",
+    "path": "categories/hair/512/image.webp",
+    "bytes": 69774
+  },
+  {
+    "name": "Hair",
+    "category": "hair",
+    "dimensions": "512x512",
+    "format": "png",
+    "path": "categories/hair/512/image.png",
+    "bytes": 392460
+  },
+  {
+    "name": "Drinks & Juices",
+    "category": "drinks-juices",
+    "dimensions": "256x256",
+    "format": "avif",
+    "path": "categories/drinks-juices/256/image.avif",
+    "bytes": 19760
+  },
+  {
+    "name": "Drinks & Juices",
+    "category": "drinks-juices",
+    "dimensions": "256x256",
+    "format": "webp",
+    "path": "categories/drinks-juices/256/image.webp",
+    "bytes": 26326
+  },
+  {
+    "name": "Drinks & Juices",
+    "category": "drinks-juices",
+    "dimensions": "256x256",
+    "format": "png",
+    "path": "categories/drinks-juices/256/image.png",
+    "bytes": 117299
+  },
+  {
+    "name": "Drinks & Juices",
+    "category": "drinks-juices",
+    "dimensions": "384x384",
+    "format": "avif",
+    "path": "categories/drinks-juices/384/image.avif",
+    "bytes": 37869
+  },
+  {
+    "name": "Drinks & Juices",
+    "category": "drinks-juices",
+    "dimensions": "384x384",
+    "format": "webp",
+    "path": "categories/drinks-juices/384/image.webp",
+    "bytes": 49344
+  },
+  {
+    "name": "Drinks & Juices",
+    "category": "drinks-juices",
+    "dimensions": "384x384",
+    "format": "png",
+    "path": "categories/drinks-juices/384/image.png",
+    "bytes": 247980
+  },
+  {
+    "name": "Drinks & Juices",
+    "category": "drinks-juices",
+    "dimensions": "512x512",
+    "format": "avif",
+    "path": "categories/drinks-juices/512/image.avif",
+    "bytes": 60029
+  },
+  {
+    "name": "Drinks & Juices",
+    "category": "drinks-juices",
+    "dimensions": "512x512",
+    "format": "webp",
+    "path": "categories/drinks-juices/512/image.webp",
+    "bytes": 77720
+  },
+  {
+    "name": "Drinks & Juices",
+    "category": "drinks-juices",
+    "dimensions": "512x512",
+    "format": "png",
+    "path": "categories/drinks-juices/512/image.png",
+    "bytes": 424229
+  },
+  {
+    "name": "Instant Food",
+    "category": "instant-food",
+    "dimensions": "256x256",
+    "format": "avif",
+    "path": "categories/instant-food/256/image.avif",
+    "bytes": 18673
+  },
+  {
+    "name": "Instant Food",
+    "category": "instant-food",
+    "dimensions": "256x256",
+    "format": "webp",
+    "path": "categories/instant-food/256/image.webp",
+    "bytes": 19730
+  },
+  {
+    "name": "Instant Food",
+    "category": "instant-food",
+    "dimensions": "256x256",
+    "format": "png",
+    "path": "categories/instant-food/256/image.png",
+    "bytes": 95912
+  },
+  {
+    "name": "Instant Food",
+    "category": "instant-food",
+    "dimensions": "384x384",
+    "format": "avif",
+    "path": "categories/instant-food/384/image.avif",
+    "bytes": 33972
+  },
+  {
+    "name": "Instant Food",
+    "category": "instant-food",
+    "dimensions": "384x384",
+    "format": "webp",
+    "path": "categories/instant-food/384/image.webp",
+    "bytes": 35422
+  },
+  {
+    "name": "Instant Food",
+    "category": "instant-food",
+    "dimensions": "384x384",
+    "format": "png",
+    "path": "categories/instant-food/384/image.png",
+    "bytes": 195678
+  },
+  {
+    "name": "Instant Food",
+    "category": "instant-food",
+    "dimensions": "512x512",
+    "format": "avif",
+    "path": "categories/instant-food/512/image.avif",
+    "bytes": 52511
+  },
+  {
+    "name": "Instant Food",
+    "category": "instant-food",
+    "dimensions": "512x512",
+    "format": "webp",
+    "path": "categories/instant-food/512/image.webp",
+    "bytes": 54476
+  },
+  {
+    "name": "Instant Food",
+    "category": "instant-food",
+    "dimensions": "512x512",
+    "format": "png",
+    "path": "categories/instant-food/512/image.png",
+    "bytes": 324678
+  },
+  {
+    "name": "Tea, Coffee & Milk Drinks",
+    "category": "tea-coffee-milk-drinks",
+    "dimensions": "256x256",
+    "format": "avif",
+    "path": "categories/tea-coffee-milk-drinks/256/image.avif",
+    "bytes": 18446
+  },
+  {
+    "name": "Tea, Coffee & Milk Drinks",
+    "category": "tea-coffee-milk-drinks",
+    "dimensions": "256x256",
+    "format": "webp",
+    "path": "categories/tea-coffee-milk-drinks/256/image.webp",
+    "bytes": 22264
+  },
+  {
+    "name": "Tea, Coffee & Milk Drinks",
+    "category": "tea-coffee-milk-drinks",
+    "dimensions": "256x256",
+    "format": "png",
+    "path": "categories/tea-coffee-milk-drinks/256/image.png",
+    "bytes": 105161
+  },
+  {
+    "name": "Tea, Coffee & Milk Drinks",
+    "category": "tea-coffee-milk-drinks",
+    "dimensions": "384x384",
+    "format": "avif",
+    "path": "categories/tea-coffee-milk-drinks/384/image.avif",
+    "bytes": 33939
+  },
+  {
+    "name": "Tea, Coffee & Milk Drinks",
+    "category": "tea-coffee-milk-drinks",
+    "dimensions": "384x384",
+    "format": "webp",
+    "path": "categories/tea-coffee-milk-drinks/384/image.webp",
+    "bytes": 40710
+  },
+  {
+    "name": "Tea, Coffee & Milk Drinks",
+    "category": "tea-coffee-milk-drinks",
+    "dimensions": "384x384",
+    "format": "png",
+    "path": "categories/tea-coffee-milk-drinks/384/image.png",
+    "bytes": 216614
+  },
+  {
+    "name": "Tea, Coffee & Milk Drinks",
+    "category": "tea-coffee-milk-drinks",
+    "dimensions": "512x512",
+    "format": "avif",
+    "path": "categories/tea-coffee-milk-drinks/512/image.avif",
+    "bytes": 53857
+  },
+  {
+    "name": "Tea, Coffee & Milk Drinks",
+    "category": "tea-coffee-milk-drinks",
+    "dimensions": "512x512",
+    "format": "webp",
+    "path": "categories/tea-coffee-milk-drinks/512/image.webp",
+    "bytes": 62918
+  },
+  {
+    "name": "Tea, Coffee & Milk Drinks",
+    "category": "tea-coffee-milk-drinks",
+    "dimensions": "512x512",
+    "format": "png",
+    "path": "categories/tea-coffee-milk-drinks/512/image.png",
+    "bytes": 365267
+  },
+  {
+    "name": "Cleaners & Repellents",
+    "category": "cleaners-repellents",
+    "dimensions": "256x256",
+    "format": "avif",
+    "path": "categories/cleaners-repellents/256/image.avif",
+    "bytes": 17661
+  },
+  {
+    "name": "Cleaners & Repellents",
+    "category": "cleaners-repellents",
+    "dimensions": "256x256",
+    "format": "webp",
+    "path": "categories/cleaners-repellents/256/image.webp",
+    "bytes": 21556
+  },
+  {
+    "name": "Cleaners & Repellents",
+    "category": "cleaners-repellents",
+    "dimensions": "256x256",
+    "format": "png",
+    "path": "categories/cleaners-repellents/256/image.png",
+    "bytes": 94107
+  },
+  {
+    "name": "Cleaners & Repellents",
+    "category": "cleaners-repellents",
+    "dimensions": "384x384",
+    "format": "avif",
+    "path": "categories/cleaners-repellents/384/image.avif",
+    "bytes": 31613
+  },
+  {
+    "name": "Cleaners & Repellents",
+    "category": "cleaners-repellents",
+    "dimensions": "384x384",
+    "format": "webp",
+    "path": "categories/cleaners-repellents/384/image.webp",
+    "bytes": 38688
+  },
+  {
+    "name": "Cleaners & Repellents",
+    "category": "cleaners-repellents",
+    "dimensions": "384x384",
+    "format": "png",
+    "path": "categories/cleaners-repellents/384/image.png",
+    "bytes": 194574
+  },
+  {
+    "name": "Cleaners & Repellents",
+    "category": "cleaners-repellents",
+    "dimensions": "512x512",
+    "format": "avif",
+    "path": "categories/cleaners-repellents/512/image.avif",
+    "bytes": 49414
+  },
+  {
+    "name": "Cleaners & Repellents",
+    "category": "cleaners-repellents",
+    "dimensions": "512x512",
+    "format": "webp",
+    "path": "categories/cleaners-repellents/512/image.webp",
+    "bytes": 59742
+  },
+  {
+    "name": "Cleaners & Repellents",
+    "category": "cleaners-repellents",
+    "dimensions": "512x512",
+    "format": "png",
+    "path": "categories/cleaners-repellents/512/image.png",
+    "bytes": 331547
+  },
+  {
+    "name": "Bath & Body",
+    "category": "bath-body",
+    "dimensions": "256x256",
+    "format": "avif",
+    "path": "categories/bath-body/256/image.avif",
+    "bytes": 19291
+  },
+  {
+    "name": "Bath & Body",
+    "category": "bath-body",
+    "dimensions": "256x256",
+    "format": "webp",
+    "path": "categories/bath-body/256/image.webp",
+    "bytes": 23584
+  },
+  {
+    "name": "Bath & Body",
+    "category": "bath-body",
+    "dimensions": "256x256",
+    "format": "png",
+    "path": "categories/bath-body/256/image.png",
+    "bytes": 100459
+  },
+  {
+    "name": "Bath & Body",
+    "category": "bath-body",
+    "dimensions": "384x384",
+    "format": "avif",
+    "path": "categories/bath-body/384/image.avif",
+    "bytes": 35155
+  },
+  {
+    "name": "Bath & Body",
+    "category": "bath-body",
+    "dimensions": "384x384",
+    "format": "webp",
+    "path": "categories/bath-body/384/image.webp",
+    "bytes": 42914
+  },
+  {
+    "name": "Bath & Body",
+    "category": "bath-body",
+    "dimensions": "384x384",
+    "format": "png",
+    "path": "categories/bath-body/384/image.png",
+    "bytes": 206323
+  },
+  {
+    "name": "Bath & Body",
+    "category": "bath-body",
+    "dimensions": "512x512",
+    "format": "avif",
+    "path": "categories/bath-body/512/image.avif",
+    "bytes": 54602
+  },
+  {
+    "name": "Bath & Body",
+    "category": "bath-body",
+    "dimensions": "512x512",
+    "format": "webp",
+    "path": "categories/bath-body/512/image.webp",
+    "bytes": 65932
+  },
+  {
+    "name": "Bath & Body",
+    "category": "bath-body",
+    "dimensions": "512x512",
+    "format": "png",
+    "path": "categories/bath-body/512/image.png",
+    "bytes": 347223
+  },
+  {
+    "name": "Electronics",
+    "category": "electronics",
+    "dimensions": "256x256",
+    "format": "avif",
+    "path": "categories/electronics/256/image.avif",
+    "bytes": 14140
+  },
+  {
+    "name": "Electronics",
+    "category": "electronics",
+    "dimensions": "256x256",
+    "format": "webp",
+    "path": "categories/electronics/256/image.webp",
+    "bytes": 17552
+  },
+  {
+    "name": "Electronics",
+    "category": "electronics",
+    "dimensions": "256x256",
+    "format": "png",
+    "path": "categories/electronics/256/image.png",
+    "bytes": 84400
+  },
+  {
+    "name": "Electronics",
+    "category": "electronics",
+    "dimensions": "384x384",
+    "format": "avif",
+    "path": "categories/electronics/384/image.avif",
+    "bytes": 23704
+  },
+  {
+    "name": "Electronics",
+    "category": "electronics",
+    "dimensions": "384x384",
+    "format": "webp",
+    "path": "categories/electronics/384/image.webp",
+    "bytes": 29674
+  },
+  {
+    "name": "Electronics",
+    "category": "electronics",
+    "dimensions": "384x384",
+    "format": "png",
+    "path": "categories/electronics/384/image.png",
+    "bytes": 169004
+  },
+  {
+    "name": "Electronics",
+    "category": "electronics",
+    "dimensions": "512x512",
+    "format": "avif",
+    "path": "categories/electronics/512/image.avif",
+    "bytes": 35036
+  },
+  {
+    "name": "Electronics",
+    "category": "electronics",
+    "dimensions": "512x512",
+    "format": "webp",
+    "path": "categories/electronics/512/image.webp",
+    "bytes": 43620
+  },
+  {
+    "name": "Electronics",
+    "category": "electronics",
+    "dimensions": "512x512",
+    "format": "png",
+    "path": "categories/electronics/512/image.png",
+    "bytes": 281702
+  },
+  {
+    "name": "Chips & Snacks",
+    "category": "chips-snacks",
+    "dimensions": "256x256",
+    "format": "avif",
+    "path": "categories/chips-snacks/256/image.avif",
+    "bytes": 19371
+  },
+  {
+    "name": "Chips & Snacks",
+    "category": "chips-snacks",
+    "dimensions": "256x256",
+    "format": "webp",
+    "path": "categories/chips-snacks/256/image.webp",
+    "bytes": 21642
+  },
+  {
+    "name": "Chips & Snacks",
+    "category": "chips-snacks",
+    "dimensions": "256x256",
+    "format": "png",
+    "path": "categories/chips-snacks/256/image.png",
+    "bytes": 100317
+  },
+  {
+    "name": "Chips & Snacks",
+    "category": "chips-snacks",
+    "dimensions": "384x384",
+    "format": "avif",
+    "path": "categories/chips-snacks/384/image.avif",
+    "bytes": 35724
+  },
+  {
+    "name": "Chips & Snacks",
+    "category": "chips-snacks",
+    "dimensions": "384x384",
+    "format": "webp",
+    "path": "categories/chips-snacks/384/image.webp",
+    "bytes": 39870
+  },
+  {
+    "name": "Chips & Snacks",
+    "category": "chips-snacks",
+    "dimensions": "384x384",
+    "format": "png",
+    "path": "categories/chips-snacks/384/image.png",
+    "bytes": 204898
+  },
+  {
+    "name": "Chips & Snacks",
+    "category": "chips-snacks",
+    "dimensions": "512x512",
+    "format": "avif",
+    "path": "categories/chips-snacks/512/image.avif",
+    "bytes": 54877
+  },
+  {
+    "name": "Chips & Snacks",
+    "category": "chips-snacks",
+    "dimensions": "512x512",
+    "format": "webp",
+    "path": "categories/chips-snacks/512/image.webp",
+    "bytes": 62464
+  },
+  {
+    "name": "Chips & Snacks",
+    "category": "chips-snacks",
+    "dimensions": "512x512",
+    "format": "png",
+    "path": "categories/chips-snacks/512/image.png",
+    "bytes": 344308
+  },
+  {
+    "name": "Baby Care",
+    "category": "baby-care",
+    "dimensions": "256x256",
+    "format": "avif",
+    "path": "categories/baby-care/256/image.avif",
+    "bytes": 17352
+  },
+  {
+    "name": "Baby Care",
+    "category": "baby-care",
+    "dimensions": "256x256",
+    "format": "webp",
+    "path": "categories/baby-care/256/image.webp",
+    "bytes": 21160
+  },
+  {
+    "name": "Baby Care",
+    "category": "baby-care",
+    "dimensions": "256x256",
+    "format": "png",
+    "path": "categories/baby-care/256/image.png",
+    "bytes": 98138
+  },
+  {
+    "name": "Baby Care",
+    "category": "baby-care",
+    "dimensions": "384x384",
+    "format": "avif",
+    "path": "categories/baby-care/384/image.avif",
+    "bytes": 30737
+  },
+  {
+    "name": "Baby Care",
+    "category": "baby-care",
+    "dimensions": "384x384",
+    "format": "webp",
+    "path": "categories/baby-care/384/image.webp",
+    "bytes": 37740
+  },
+  {
+    "name": "Baby Care",
+    "category": "baby-care",
+    "dimensions": "384x384",
+    "format": "png",
+    "path": "categories/baby-care/384/image.png",
+    "bytes": 199328
+  },
+  {
+    "name": "Baby Care",
+    "category": "baby-care",
+    "dimensions": "512x512",
+    "format": "avif",
+    "path": "categories/baby-care/512/image.avif",
+    "bytes": 46405
+  },
+  {
+    "name": "Baby Care",
+    "category": "baby-care",
+    "dimensions": "512x512",
+    "format": "webp",
+    "path": "categories/baby-care/512/image.webp",
+    "bytes": 56970
+  },
+  {
+    "name": "Baby Care",
+    "category": "baby-care",
+    "dimensions": "512x512",
+    "format": "png",
+    "path": "categories/baby-care/512/image.png",
+    "bytes": 333977
+  }
+]
